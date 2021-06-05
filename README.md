@@ -7,7 +7,7 @@ in the current state a "Win" can be achieved after 7 rounds.
 
 ## Screenshots of Game
 
-![Alt At load ( )
+<img src = "PlayAgain.png"
 ![Alt Win state ( )
 ![Alt Try  Again? ( )
 
