@@ -29,7 +29,7 @@ please click on this link to start the game:
 * https://en.wikipedia.org/wiki/Flow_(psychology)
 * https://en.wikipedia.org/wiki/Dynamic_game_difficulty_balancing
 2) Implement variable sequence speed dependant on round of play.
-3) Improve sound quality
+3) Improve sound quality on mobile
 
 
 
